@@ -1,2 +1,17 @@
 # brag
--
+- FMP
+  - High-value project work largely self-initiated under broad direction
+  - Accountable for identifying and meeting technical and project requirements with higb uptime and reliability.
+    - Constructed, validated and put into production RandomForect model for customer ETAs when backordered.
+    - Built and maintained sales dashboard for internal use.
+    - Built and maintained staff portal for registering onsite status and current activity. Flask webserver on Linux terminal accessible via http from wall mounted iPads. Used flask for dynanmic generation of static html. Includes DB lookups, test driven development, sound and camera access via HTML5 api.
+    - Fully revamped all COGS costings using real time activity data and built dashboards and other scripted automations for internal monitoring.
+    - Built and maintained recommendation system for inter-site replenishment and distribution. Created automated emails and monitoring dashboards to guide internal prioritisation.
+    - Identified an area in which our customer service area spent a large amount of time: calls about ETAs. These calls frequently get escalated to multiple other people and complex internal discussions about inventory and other processes. Pushed for an automated set of estimates deployed where easily accessible to cuastomer service centre to vastly improve efficiency and minimise interuptions to other business centres.
+    - Purchasing, investment recommendations and provisioning for desktop computers, laptops, office equipment, printers and server infrastructure.
+    - Credential management, new user setup and security monitoring.
+    - Relationship management, negotiations and liason with external technology suppliers or contractors.
+    - Various scripting for small tasks like alerts, data exports, etc. in C#, python, T-SQL, linq, etc.
+    - DevOps, maintaining and provisioning in-house linux and windows servers.
+    - Maintaining webhosting infrastructure and keys. (Wordpress maintenance on CPANEL, transition to Let's Encrypt, etc.)
+    - 
